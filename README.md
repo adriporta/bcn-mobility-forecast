@@ -1,6 +1,8 @@
 
 # 🌊 BCN Flow Intelligence
 
+> **Model performance (LightGBM, test set):** MAE = 450 trips/day · RMSE = 1,166 · R² = 0.96
+
 **BCN Flow Intelligence** is a Streamlit web application for analyzing and forecasting daily inflow mobility to Barcelona from surrounding municipalities.
 
 The app combines:
